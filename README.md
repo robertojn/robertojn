@@ -2,11 +2,11 @@
 
 🎮 **Estudante de Programação de Jogos Digitais** na Fatec Americana, em transição da área de mecânica para a tecnologia, motivado por inovação e aprendizado contínuo
 
-
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertojn&show_icons=true&theme=dark" alt="Roberto's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertojn&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robertojn&show_icons=true&theme=dark" alt="Roberto's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertojn&layout=compact&theme=dark&card_width=400" alt="Top Langs" width="400"/>
 </div>
+
 
 
 <div style="display: inline_block"><br>
