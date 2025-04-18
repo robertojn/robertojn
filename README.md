@@ -1,6 +1,6 @@
 # 👋 Olá, sou o Roberto Francisco Carvalho Jr.!
 
-🎮 **Estudante de Programação de Jogos Digitais** na Fatec Americana, em transição da área de mecânica para a tecnologia, motivado por inovação e aprendizado contínuo
+🎮 **Estudante de Programação de Jogos Digitais** na Fatec Americana, motivado por inovação e aprendizado contínuo
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=robertojn&show_icons=true&theme=dark" alt="Roberto's GitHub stats" width="400"/>
